@@ -1,6 +1,6 @@
 module Main where
 
-import Lib
+import Mycorec
 
 main :: IO ()
 main = someFunc
