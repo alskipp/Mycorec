@@ -11,24 +11,43 @@ import Data.Either
 
 main :: IO ()
 main = hspec $ do
-  describe "Verify that individual records are parsed correctly" $ do
-    it "parses single record" $ do
+  describe "Verify that individual records are successfully parsed containing" $ do
+    it "single record" $ do
       recordsFromText "Agaricus bisporus,cultivated mushroom" `shouldBe` Right [agricusBiporus]
 
-    it "parses single record with additional spaces" $ do
+    it "single record with additional spaces" $ do
       recordsFromText "  Agaricus bisporus  ,  cultivated mushroom  " `shouldBe` Right [agricusBiporus]
 
-    it "parses single record with multiple common names" $ do
+    it "single record with multiple common names" $ do
       recordsFromText "Boletus edulis,penny bun / cep" `shouldBe` Right [boletusEdulis]
 
-    it "parses single record with infraspecfic var. x" $ do
+    it "single record with one word common name" $ do
+      recordsFromText "Thelephora terrestris,Earthfan" `shouldBe` Right [thelephoraTerrestris]
+
+    it "single record with infraspecfic var. x" $ do
       recordsFromText "Boletus luridiformis var. discolor,false yellow bolete" `shouldBe` Right [boletusLuridiformisVarDiscolor]
 
-    it "parses single record with name containing an apostrophe" $ do
+    it "single record with sensu stricto" $ do
+      recordsFromText "Geopora arenosa s.s,mountain cup" `shouldBe` Right [geoporaArenosa]
+
+    it "single record with name containing an apostrophe" $ do
       recordsFromText "Bulgaria inquinans,black bulgar / batchelor's buttons" `shouldBe` Right [bulgariaInquinans]
 
-    it "parses single record with sensu stricto" $ do
-      recordsFromText "Geopora arenosa s.s,mountain cup" `shouldBe` Right [geoporaArenosa]
+    it "single record with name containing a hyphen" $ do
+      recordsFromText "Puccinia eutremae,Scurvy-grass Rust" `shouldBe` Right [pucciniaEutremae]
+
+
+  describe "Verify that malformed records fail to parse containing" $ do
+    it "disallowed characters" $ do
+      recordsFromText "Aga#ricus bis+porus,cultivated mushroom" `shouldSatisfy` isLeft
+
+
+  describe "Verify that multiple lines of records are parsed correctly with" $ do
+    it "single line ends" $ do
+      fmap length (recordsFromText "Abc Def,xyz\nAaa Bbb,Zzz") `shouldBe` Right 2
+
+    it "parses records with extra line ends" $ do
+      fmap length (recordsFromText "Abc Def,xyz\n\n\nAaa Bbb,Zzz") `shouldBe` Right 2
 
 
 
@@ -55,4 +74,14 @@ bulgariaInquinans =
 geoporaArenosa = 
   SourceRecord { scientificName = ScientificName {genus = "Geopora", species = "arenosa", infraspecific = Nothing, sensu = Just Stricto}
                , commonNames = ["mountain cup"]
+               }
+
+pucciniaEutremae = 
+  SourceRecord { scientificName = ScientificName {genus = "Puccinia", species = "eutremae", infraspecific = Nothing, sensu = Nothing}
+               , commonNames = ["Scurvy-grass Rust"]
+               }
+
+thelephoraTerrestris = 
+  SourceRecord { scientificName = ScientificName {genus = "Thelephora", species = "terrestris", infraspecific = Nothing, sensu = Nothing}
+               , commonNames = ["Earthfan"]
                }

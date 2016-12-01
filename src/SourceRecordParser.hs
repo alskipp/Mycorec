@@ -17,7 +17,7 @@ recordsFromText :: Text -> Either String [SourceRecord]
 recordsFromText = parseOnly parseAllSourceRecords
 
 parseAllSourceRecords :: Parser [SourceRecord]
-parseAllSourceRecords = many (parseSourceRecord <* many endOfLine)
+parseAllSourceRecords = parseSourceRecord `sepBy1` (takeWhile1 isEndOfLine)
 
 
 parseSpecies :: Parser Text
@@ -42,9 +42,9 @@ parseInfraspecific =
 
 
 parseCommonNames :: Parser [Text]
-parseCommonNames  = names <$> notSpaces `sepBy1` takeWhile isHorizontalSpace
+parseCommonNames  = names <$> nameOrSep `sepBy1` takeWhile isHorizontalSpace
   where names     = fmap T.unwords . (splitWhen (=="/"))
-        notSpaces = takeWhile1 (not . isSpace)
+        nameOrSep = parseName <|> "/"
 
 
 parseScientificName :: Parser ScientificName
@@ -64,7 +64,7 @@ parseSourceRecord = SourceRecord
 stripSpaces p = skipSpace *> p <* skipSpace
 
 parseName, spacesThenName :: Parser Text
-parseName      = takeWhile1 $ isLetter `or` (== '-') `or` (== '\'') `or` (== '’')
+parseName = takeWhile1 $ isLetter `or` (== '-') `or` (== '\'') `or` (== '’')
   where or = liftA2 (||)
 
 spacesThenName = skipSpace *> parseName
