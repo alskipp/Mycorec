@@ -20,6 +20,9 @@ main = hspec $ do
     it "single record with additional spaces" $ do
       parseText "  Agaricus bisporus  ,  cultivated mushroom  " `shouldBe` Right [agricusBiporus]
 
+    it "single record with common name containing '.'" $ do
+      parseText "Calocybe gambosa,St. George's Mushroom" `shouldBe` Right [calocybeGambosa]
+      
     it "single record with multiple common names" $ do
       parseText "Boletus edulis,penny bun / cep" `shouldBe` Right [boletusEdulis]
 
@@ -129,4 +132,9 @@ pucciniaEutremae =
 thelephoraTerrestris = 
   SourceRecord { scientificName = ScientificName {genus = "Thelephora", species = "terrestris", infraspecific = Nothing, sensu = Nothing}
                , commonNames = ["Earthfan"]
+               }
+
+calocybeGambosa = 
+  SourceRecord { scientificName = ScientificName {genus = "Calocybe", species = "gambosa", infraspecific = Nothing, sensu = Nothing}
+               , commonNames = ["St. George's Mushroom"]
                }

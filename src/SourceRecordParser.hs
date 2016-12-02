@@ -43,7 +43,7 @@ parseInfraspecific =
 
 
 parseCommonNames :: Parser [Text]
-parseCommonNames  = names <$> nameOrSep `sepBy1` takeWhile isHorizontalSpace
+parseCommonNames  = names <$> nameOrSep `sepEndBy1` takeWhile isHorizontalSpace
   where names     = fmap T.unwords . (splitWhen (=="/"))
         nameOrSep = parseName <|> "/"
 
@@ -68,7 +68,19 @@ parseSourceRecordToLower = fmap (fmap T.toLower) parseSourceRecord
 stripSpaces p = skipSpace *> p <* skipSpace
 
 parseName, spacesThenName :: Parser Text
-parseName = takeWhile1 $ isLetter `or` (== '-') `or` (== '\'') `or` (== '’')
+parseName = takeWhile1 $ isLetter `or` (== '-') `or` (== '\'') `or` (== '’') `or` (== '.')
   where or = liftA2 (||)
 
 spacesThenName = skipSpace *> parseName
+
+----------------------------------
+-- Additional AttoParsec functions
+
+sepEndBy1 :: Parser a -> Parser b -> Parser [a]
+sepEndBy1 p sep = do x <- p
+                     do _  <- sep
+                        xs <- sepEndBy p sep
+                        return (x:xs) <|> return [x]
+
+sepEndBy :: Parser a -> Parser b -> Parser [a]
+sepEndBy p sep = sepEndBy1 p sep <|> return []
