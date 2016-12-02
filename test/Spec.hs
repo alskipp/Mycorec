@@ -52,6 +52,49 @@ main = hspec $ do
       fmap length (parseText "Abc Def,xyz\n\n\nAaa Bbb,Zzz") `shouldBe` Right 2
 
 
+  describe "Verify that pretty printing gives correct results for" $ do
+    it "sensu stricto" $ do
+      ppSensu Stricto `shouldBe` "s.s"
+
+    it "sensu lato" $ do
+      ppSensu Lato `shouldBe` "s.l"
+
+    it "infraspecfic SubSpecies" $ do
+      ppInfraspecific (SubSpecies "x") `shouldBe` "subsp. x"
+
+    it "infraspecfic Variety" $ do
+      ppInfraspecific (Variety "x") `shouldBe` "var. x"
+
+    it "infraspecfic SubVariety" $ do
+      ppInfraspecific (SubVariety "x") `shouldBe` "subvar. x"
+
+    it "infraspecfic Forma" $ do
+      ppInfraspecific (Forma "x") `shouldBe` "f. x"
+
+    it "infraspecfic SubForma" $ do
+      ppInfraspecific (SubForma "x") `shouldBe` "subf. x"
+
+    it "scientificName" $ do
+      ppScientificName (scientificName boletusEdulis) `shouldBe` "Boletus edulis"
+      
+    it "scientificName with infraspecific" $ do
+      ppScientificName (scientificName boletusLuridiformisVarDiscolor) `shouldBe` "Boletus luridiformis var. discolor"
+
+    it "scientificName with sensu" $ do
+      ppScientificName (scientificName geoporaArenosa) `shouldBe` "Geopora arenosa s.s"
+
+
+  describe "Verify that sourceRecordToCSV gives correct results for" $ do
+    it "simple record" $ do
+      sourceRecordToCSV agricusBiporus `shouldBe` "Agaricus bisporus,Cultivated Mushroom"
+
+    it "record with multiple common names" $ do
+      sourceRecordToCSV bulgariaInquinans `shouldBe` "Bulgaria inquinans,Black Bulgar / Batchelor's Buttons"
+
+    it "record with infraspecific" $ do
+      sourceRecordToCSV boletusLuridiformisVarDiscolor `shouldBe` "Boletus luridiformis var. discolor,False Yellow Bolete"
+
+
 
 agricusBiporus = 
   SourceRecord { scientificName = ScientificName {genus = "Agaricus", species = "bisporus", infraspecific = Nothing, sensu = Nothing}
