@@ -20,14 +20,15 @@ data Sensu = Stricto -- s.s
            deriving (Show, Eq, Ord)
 
 
-data ScientificName = ScientificName 
-    { genus :: Text
-    , species :: Text
-    , infraspecific :: Maybe (Infraspecific Text)
+data ScientificName a = ScientificName 
+    { genus :: a
+    , species :: a
+    , infraspecific :: Maybe (Infraspecific a)
     , sensu :: Maybe Sensu
-    } deriving (Show, Eq, Ord)
+    } deriving (Show, Eq, Ord, Functor)
 
 
-data SourceRecord = SourceRecord { scientificName :: ScientificName
-                                 , commonNames :: [Text]
-                                 } deriving (Show, Eq, Ord)
+data SourceRecord a = SourceRecord { scientificName :: ScientificName a
+                                   , commonNames :: [a]
+                                   } deriving (Show, Eq, Ord, Functor)
+

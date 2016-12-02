@@ -9,45 +9,47 @@ import Test.Hspec
 import Data.Either
 
 
+parseText = parseLines parseSourceRecord
+
 main :: IO ()
 main = hspec $ do
   describe "Verify that individual records are successfully parsed containing" $ do
     it "single record" $ do
-      recordsFromText "Agaricus bisporus,cultivated mushroom" `shouldBe` Right [agricusBiporus]
+      parseText "Agaricus bisporus,cultivated mushroom" `shouldBe` Right [agricusBiporus]
 
     it "single record with additional spaces" $ do
-      recordsFromText "  Agaricus bisporus  ,  cultivated mushroom  " `shouldBe` Right [agricusBiporus]
+      parseText "  Agaricus bisporus  ,  cultivated mushroom  " `shouldBe` Right [agricusBiporus]
 
     it "single record with multiple common names" $ do
-      recordsFromText "Boletus edulis,penny bun / cep" `shouldBe` Right [boletusEdulis]
+      parseText "Boletus edulis,penny bun / cep" `shouldBe` Right [boletusEdulis]
 
     it "single record with one word common name" $ do
-      recordsFromText "Thelephora terrestris,Earthfan" `shouldBe` Right [thelephoraTerrestris]
+      parseText "Thelephora terrestris,Earthfan" `shouldBe` Right [thelephoraTerrestris]
 
     it "single record with infraspecfic var. x" $ do
-      recordsFromText "Boletus luridiformis var. discolor,false yellow bolete" `shouldBe` Right [boletusLuridiformisVarDiscolor]
+      parseText "Boletus luridiformis var. discolor,false yellow bolete" `shouldBe` Right [boletusLuridiformisVarDiscolor]
 
     it "single record with sensu stricto" $ do
-      recordsFromText "Geopora arenosa s.s,mountain cup" `shouldBe` Right [geoporaArenosa]
+      parseText "Geopora arenosa s.s,mountain cup" `shouldBe` Right [geoporaArenosa]
 
     it "single record with name containing an apostrophe" $ do
-      recordsFromText "Bulgaria inquinans,black bulgar / batchelor's buttons" `shouldBe` Right [bulgariaInquinans]
+      parseText "Bulgaria inquinans,black bulgar / batchelor's buttons" `shouldBe` Right [bulgariaInquinans]
 
     it "single record with name containing a hyphen" $ do
-      recordsFromText "Puccinia eutremae,Scurvy-grass Rust" `shouldBe` Right [pucciniaEutremae]
+      parseText "Puccinia eutremae,Scurvy-grass Rust" `shouldBe` Right [pucciniaEutremae]
 
 
   describe "Verify that malformed records fail to parse containing" $ do
     it "disallowed characters" $ do
-      recordsFromText "Aga#ricus bis+porus,cultivated mushroom" `shouldSatisfy` isLeft
+      parseText "Aga#ricus bis+porus,cultivated mushroom" `shouldSatisfy` isLeft
 
 
   describe "Verify that multiple lines of records are parsed correctly with" $ do
     it "single line ends" $ do
-      fmap length (recordsFromText "Abc Def,xyz\nAaa Bbb,Zzz") `shouldBe` Right 2
+      fmap length (parseText "Abc Def,xyz\nAaa Bbb,Zzz") `shouldBe` Right 2
 
     it "parses records with extra line ends" $ do
-      fmap length (recordsFromText "Abc Def,xyz\n\n\nAaa Bbb,Zzz") `shouldBe` Right 2
+      fmap length (parseText "Abc Def,xyz\n\n\nAaa Bbb,Zzz") `shouldBe` Right 2
 
 
 

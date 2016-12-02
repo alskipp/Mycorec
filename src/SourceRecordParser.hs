@@ -13,11 +13,12 @@ import Data.List.Split (splitWhen)
 import Data.Char
 
 
-recordsFromText :: Text -> Either String [SourceRecord]
-recordsFromText = parseOnly parseAllSourceRecords
+sourceRecordsFromText :: Text -> Either String [SourceRecord Text]
+sourceRecordsFromText = parseLines parseSourceRecordToLower
 
-parseAllSourceRecords :: Parser [SourceRecord]
-parseAllSourceRecords = parseSourceRecord `sepBy1` (takeWhile1 isEndOfLine)
+parseLines :: Parser (SourceRecord Text) -> Text -> Either String [SourceRecord Text]
+parseLines parser = parseOnly everyLine
+  where everyLine = parser `sepBy1` (takeWhile1 isEndOfLine)
 
 
 parseSpecies :: Parser Text
@@ -47,7 +48,7 @@ parseCommonNames  = names <$> nameOrSep `sepBy1` takeWhile isHorizontalSpace
         nameOrSep = parseName <|> "/"
 
 
-parseScientificName :: Parser ScientificName
+parseScientificName :: Parser (ScientificName Text)
 parseScientificName = ScientificName 
   <$> spacesThenName
   <*> parseSpecies
@@ -55,11 +56,14 @@ parseScientificName = ScientificName
   <*> (option Nothing (fmap Just parseSensu))
 
 
-parseSourceRecord :: Parser SourceRecord
+parseSourceRecord :: Parser (SourceRecord Text)
 parseSourceRecord = SourceRecord 
   <$> parseScientificName
   <*> (stripSpaces (char ',') *> parseCommonNames)
 
+parseSourceRecordToLower :: Parser (SourceRecord Text)
+parseSourceRecordToLower = fmap (fmap T.toLower) parseSourceRecord
+  
 
 stripSpaces p = skipSpace *> p <* skipSpace
 
