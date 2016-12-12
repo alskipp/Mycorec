@@ -1,0 +1,1506 @@
+Abortiporus biennis,Blushing Rosette
+Agaricus arvensis,Horse Mushroom
+Agaricus augustus,The Prince
+Agaricus bernardii,Salty Mushroom
+Agaricus bisporus,Cultivated Mushroom
+Agaricus bitorquis,Pavement Mushroom
+Agaricus campestris,Field Mushroom
+Agaricus cappellianus,Clustered Mushroom
+Agaricus dulcidulus,Rosy Wood Mushroom
+Agaricus langei,Scaly Wood Mushroom
+Agaricus moelleri,Inky Mushroom
+Agaricus porphyrizon,Lilac Mushroom
+Agaricus silvaticus,Blushing Wood Mushroom
+Agaricus silvicola,Wood Mushroom
+Agaricus urinascens,Macro Mushroom
+Agaricus xanthodermus,Yellow Stainer
+Agrocybe cylindracea,Poplar Fieldcap
+Agrocybe erebia,Dark Fieldcap
+Agrocybe molesta,Bearded Fieldcap
+Agrocybe pediades,Common Fieldcap
+Agrocybe praecox,Spring Fieldcap
+Agrocybe putaminum,Mulch Fieldcap
+Agrocybe rivulosa,Wrinkled Fieldcap
+Aleuria aurantia,Orange Peel Fungus
+Aleuria rhenana,Stalked Orange Peel Fungus
+Aleurodiscus amorphus,Orange Discus
+Aleurodiscus wakefieldiae,Pink Disco
+Amanita ceciliae,Snakeskin Grisette
+Amanita citrina ,False Deathcap
+Amanita crocea,Orange Grisette
+Amanita echinocephala,Solitary Amanita
+Amanita excelsa var. spissa,Grey Spotted Amanita
+Amanita friabilis,Fragile Amanita
+Amanita fulva,Tawny Grisette
+Amanita gemmata,Jewelled Amanita
+Amanita lividopallescens,Pale Grisette
+Amanita muscaria,Fly Agaric
+Amanita nivalis,Mountain Grisette
+Amanita ovoidea,Bearded Amanita
+Amanita pantherina,Panthercap
+Amanita phalloides,Deathcap
+Amanita porphyria,Grey Veiled Amanita
+Amanita rubescens,Blusher
+Amanita strobiliformis,Warted Amanita
+Amanita vaginata,Grisette
+Amanita virosa,Destroying Angel
+Amanita vittadinii,Barefoot Amanita
+Amaurodon cyaneus,Upper Crust
+Ampulloclitocybe clavipes,Club Foot
+Anthracoidea capillaris,Hair Sedge Smut
+Antrodia ramentacea,Honeycomb Crust
+Armillaria ectypa,Marsh Honey Fungus
+Armillaria gallica,Bulbous Honey Fungus
+Armillaria mellea,Honey Fungus
+Armillaria ostoyae,Dark Honey Fungus
+Armillaria tabescens,Ringless Honey Fungus
+Arrhenia acerosa,Moss Oysterling
+Arrhenia chlorocyanea,Verdigris Navel
+Arrhenia retiruga,Small Moss Oysterling
+Ascocoryne sarcoides,Purple Jellydisc
+Aseroe rubra,Starfish Fungus
+Asterophora lycoperdoides,Powdery Piggyback
+Asterophora parasitica,Silky Piggyback
+Astraeus hygrometricus,Barometer Earthstar
+Aurantiporus fissilis,Greasy Bracket
+Aureoboletus gentilis,Gilded Bolete
+Auricularia auricula-judae,Jelly Ear
+Auricularia mesenterica,Tripe Fungus
+Auriscalpium vulgare,Earpick Fungus
+Baeospora myosura,Conifercone Cap
+Bankera fuligineoalba,Drab Tooth
+Bankera violascens,Spruce Tooth
+Basidioradulum radula,Toothed Crust
+Battarrea phalloides,Sandy Stiltball
+Bauhinus marginalis,Bistort Silver Rust
+Bauhinus pustulatus,Bistort Blister
+Bertia moriformis,Wood Mulberry
+Biscogniauxia nummularia,Beech Tarcrust
+Bisporella citrina,Lemon Disco
+Bjerkandera adusta,Smoky Bracket
+Bjerkandera fumosa,Big Smoky Bracket
+Blasiphalia pseudogrisella,Blasia Mosscap
+Bolbitius reticulatus,Netted Fieldcap
+Bolbitius titubans,Yellow Fieldcap
+Boletopsis perplexa,Black Falsebolete
+Boletus aereus,Bronze Bolete
+Boletus appendiculatus,Oak Bolete
+Boletus badius,Bay Bolete
+Boletus bubalinus,Ascot Hat
+Boletus calopus,Bitter Beech Bolete
+Boletus chrysenteron,Red Cracking Bolete
+Boletus edulis,Penny Bun / Cep
+Boletus fechtneri,Pale Bolete
+Boletus fragrans,Fragrant Bolete
+Boletus immutatus,Constant Bolete
+Boletus impolitus,Iodine Bolete
+Boletus luridiformis,Scarletina Bolete
+Boletus luridiformis var. discolor,False Yellow Bolete
+Boletus luridus,Lurid Bolete
+Boletus moravicus,Tawny Bolete
+Boletus pinophilus,Pine Bolete
+Boletus porosporus,Sepia Bolete
+Boletus pruinatus,Matt Bolete
+Boletus pseudoregius,The Pretender
+Boletus pseudosulphureus,Yellow Bolete
+Boletus pulverulentus,Inkstain Bolete
+Boletus queletii,Deceiving Bolete
+Boletus radicans,Rooting Bolete
+Boletus regius,Royal Bolete
+Boletus reticulatus,Summer Bolete
+Boletus rhodopurpureus,Oldrose Bolete
+Boletus rhodoxanthus,Ruddy Bolete
+Boletus rubellus,Ruby Bolete
+Boletus satanas,Devil's Bolete
+Boletus subtomentosus,Suede Bolete
+Boletus torosus,Brawny Bolete
+Bovista dermoxantha,Dwarf Puffball
+Bovista limosa,Least Puffball
+Bovista nigrescens,Brown Puffball
+Bovista paludosa,Fen Puffball
+Bovista plumbea,Grey Puffball
+Buchwaldoboletus lignicola,Wood Bolete
+Buchwaldoboletus sphaerocephalus,Golden Bolete
+Bulgaria inquinans,Black Bulgar
+Byssomerulius corium,Netted Crust
+Cainiella johansonii,Mountain Avens Microdot
+Calocera cornea,Small Stagshorn
+Calocera pallidospathulata,Pale Stagshorn
+Calocera viscosa,Yellow Stagshorn
+Calocybe favrei,Gilded Domecap 
+Calocybe gambosa,St. George's Mushroom
+Caloscypha fulgens,Golden Cup
+Calvatia gigantea,Giant Puffball
+Camarophyllopsis atropuncta,Dotted Fanvault
+Camarophyllopsis foetens,Stinking Fanvault
+Camarophyllopsis hymenocephala,Dark Fanvault
+Camarophyllopsis micacea,Yellowlegged Fanvault
+Camarophyllopsis schulzeri,Matt Fanvault
+Camarops polysperma,Thick Tarcrust
+Campanella caesia,Marram Oysterling
+Cantharellula umbonata,The Humpback
+Cantharellus aurora,Golden Chanterelle
+Cantharellus cibarius,Chanterelle
+Cantharellus cinereus,Ashen Chanterelle
+Cantharellus ferruginascens,Pale Chanterelle
+Cantharellus friesii,Orange Chanterelle
+Cantharellus melanoxeros,Blackening Chanterelle
+Cantharellus tubaeformis,Trumpet Chanterelle
+Catinella olivacea,Olive Salver
+Ceriporiopsis gilvescens,Pink Porecrust
+Ceriporiopsis pannocincta,Green Porecrust
+Chalciporus piperatus,Peppery Bolete
+Chamaemyces fracidus,Dewdrop Dapperling
+Chlorencoelia versiformis,Flea's Ear
+Chlorociboria aeruginascens,Green Elfcup
+Chlorophyllum molybdites,False Parasol
+Chlorophyllum rhacodes,Shaggy Parasol
+Chondrostereum purpureum,Silverleaf Fungus
+Chroogomphus rutilus,Copper Spike
+Chrysomphalina chrysophylla,Golden Navel
+Chrysomyxa empetri,Crowberry Rust
+Chrysomyxa pirolata,Wintergreen Rust
+Ciboria caucus,Alder Goblet
+Clathrus archeri,Devil's Fingers
+Clathrus ruber,Red Cage
+Clavaria acuta,Pointed Club
+Clavaria argillacea,Moor Club
+Clavaria fragilis,White Spindles
+Clavaria fumosa,Smoky Spindles
+Clavaria greletii,Dark Club
+Clavaria incarnata,Skinny Club
+Clavaria rosea,Rose Spindles
+Clavaria straminea,Straw Club
+Clavaria zollingeri,Violet Coral
+Clavariadelphus ligula,Ochre Club
+Clavariadelphus pistillaris,Giant Club
+Clavariadelphus truncatus,Truncated Club
+Claviceps purpurea,Ergot
+Clavicorona pyxidata,Candelabra Coral
+Clavicorona taxophila,Yew Club
+Clavulina cinerea,Grey Coral
+Clavulina coralloides,Crested Coral
+Clavulina rugosa,Wrinkled Club
+Clavulinopsis corniculata,Meadow Coral
+Clavulinopsis fusiformis,Golden Spindles
+Clavulinopsis helvola,Yellow Club
+Clavulinopsis laeticolor,Handsome Club
+Clavulinopsis luteoalba,Apricot Club
+Clavulinopsis luteonana,Dwarf Spindles
+Clavulinopsis umbrinella,Beige Coral
+Clitocybe alexandri,Alexander's Funnel
+Clitocybe ditopa,Mealy Frosted Funnel
+Clitocybe fragrans,Fragrant Funnel
+Clitocybe geotropa,Trooping Funnel
+Clitocybe gibba,Common Funnel
+Clitocybe nebularis,Clouded Funnel
+Clitocybe odora,Aniseed Funnel
+Clitocybe phaeophthalma,Chicken Run Funnel
+Clitocybe phyllophila,Frosty Funnel
+Clitocybe rivulosa,Fool's Funnel
+Clitocybe trulliformis,Dapper Funnel
+Clitocybe vibecina,Mealy Funnel
+Clitopilus prunulus,The Miller
+Collybia cirrhata,Piggyback Shanklet
+Collybia cookei,Splitpea Shanklet
+Collybia tuberosa,Lentil Shanklet
+Coltricia perennis,Tiger's Eye
+Coniophora puteana,Wet Rot
+Conocybe apala,Milky Conecap
+Conocybe arrhenii,Ringed Conecap
+Conocybe filaris,Fool's Conecap
+Coprinellus disseminatus,Fairy Inkcap
+Coprinellus domesticus,Firerug Inkcap
+Coprinellus micaceus,Glistening Inkcap
+Coprinopsis acuminata,Humpback Inkcap
+Coprinopsis ammophilae,Dune Inkcap
+Coprinopsis atramentaria,Common Inkcap
+Coprinopsis episcopalis,Mitre Inkcap
+Coprinopsis jonesii,Bonfire Inkcap
+Coprinopsis lagopus,Hare'sfoot Inkcap
+Coprinopsis nivea,Snowy Inkcap
+Coprinopsis picacea,Magpie Inkcap
+Coprinopsis scobicola,Sawdust Inkcap
+Coprinopsis stangliana,Pied Inkcap
+Coprinus alopecius,Distinguished Inkcap
+Coprinus comatus,Shaggy Inkcap / Lawyer's Wig
+Coprinus sterquilinus,Midden Inkcap
+Cordyceps capitata,Drumstick Truffleclub
+Cordyceps clavulata,Bug Sputnik
+Cordyceps forquignonii,Yellow Waspclub
+Cordyceps militaris,Scarlet Caterpillarclub
+Cordyceps tuberculata,Dwarf Caterpillarclub
+Coriolopsis gallica,Brownflesh Bracket
+Cortinarius alboviolaceus,Pearly Webcap
+Cortinarius aleuriosmus,Mealy Webcap
+Cortinarius amoenolens,Blueleg Webcap
+Cortinarius anomalus,Variable Webcap
+Cortinarius armillatus,Red Banded Webcap
+Cortinarius atrovirens,Olive Webcap
+Cortinarius bolaris,Dappled Webcap
+Cortinarius bulliardii,Hotfoot Webcap
+Cortinarius caerulescens,Mealy Bigfoot Webcap
+Cortinarius caledoniensis,Caledonian Webcap
+Cortinarius callisteus,Tawny Webcap
+Cortinarius camphoratus,Goatcheese Webcap
+Cortinarius caperatus,The Gypsy
+Cortinarius cinnamomeus,Cinnamon Webcap
+Cortinarius collinitus,Blue-girdled Webcap
+Cortinarius corrosus,Spruce Bigfoot Webcap
+Cortinarius crassus,Stout Webcap
+Cortinarius croceus,Saffron Webcap
+Cortinarius cumatilis,Wavy Webcap
+Cortinarius cyanites,Blushing Webcap
+Cortinarius decipiens,Sepia Webcap
+Cortinarius delibutus,Yellow Webcap
+Cortinarius durus,Hard Webcap
+Cortinarius evernius,Silky Webcap
+Cortinarius fervidus,Dyer's Webcap
+Cortinarius flexipes var. flabellus,Pelargonium Webcap
+Cortinarius flexipes var. flexipes,Pine Pelargonium Webcap
+Cortinarius glaucopus,Greenfoot Webcap
+Cortinarius hemitrichus,Frosty Webcap
+Cortinarius hinnuleus,Earthy Webcap
+Cortinarius humicola,Golden Webcap
+Cortinarius infractus,Bitter Webcap
+Cortinarius integerrimus,Purple Stocking Webcap
+Cortinarius laniger,Woolly Webcap
+Cortinarius limonius,Sunset Webcap
+Cortinarius livido-ochraceus,Wrinkled Webcap
+Cortinarius mucifluus,Slimy Webcap
+Cortinarius mucosus,Orange Webcap
+Cortinarius olearioides,Saffron Stainer
+Cortinarius orellanus,Fool's Webcap
+Cortinarius osmophorus,Sweet Webcap
+Cortinarius pholideus,Scaly Webcap
+Cortinarius praestans,Goliath Webcap
+Cortinarius purpurascens,Bruising Webcap
+Cortinarius rubellus,Deadly Webcap
+Cortinarius rubicundulus,Ruddy Webcap
+Cortinarius saginus,Cloaked Webcap
+Cortinarius sanguineus,Bloodred Webcap
+Cortinarius scaurus,Green Webcap
+Cortinarius semisanguineus,Surprise Webcap
+Cortinarius sodagnitus,Bitter Bigfoot Webcap
+Cortinarius spilomeus,Freckled Webcap
+Cortinarius splendens,Splendid Webcap
+Cortinarius subtortus,Incense Webcap
+Cortinarius talus,Honey Webcap
+Cortinarius torvus,Stocking Webcap
+Cortinarius traganus,Gassy Webcap
+Cortinarius triumphans,Birch Webcap
+Cortinarius trivialis,Girdled Webcap
+Cortinarius uliginosus,Marsh Webcap
+Cortinarius variicolor,Contrary Webcap
+Cortinarius vernus,Spring Webcap
+Cortinarius violaceus,Violet Webcap
+Cortinarius vulpinus,Foxy Webcap
+Cortinarius xanthocephalus,Yellow Capped Webcap
+Cotylidia pannosa,Woolly Rosette
+Cotylidia undulata,Stalked Rosette
+Craterellus cornucopioides,Horn of Plenty
+Crepidotus applanatus,Flat Oysterling
+Crepidotus caspari,Pale Oysterling
+Crepidotus cinnabarinus,Cinnabar Oysterling
+Crepidotus crocophyllus,Saffron Oysterling
+Crepidotus luteolus,Yellowing Oysterling
+Crepidotus mollis,Peeling Oysterling
+Crepidotus variabilis,Variable Oysterling
+Crinipellis scabella,Hairy Parachute
+Crucibulum laeve,Common Bird's Nest
+Cryptomyces maximus,Willow Blister
+Cryptovalsa suaedicola,Seablight Microdot
+Cudonia circinans,Redleg Jellybaby
+Cudonia confusa,Cinnamon Jellybaby
+Cudoniella acicularis,Oak Pin
+Cudoniella clavus,Spring Pin
+Cyathus olla,Field Bird's Nest
+Cyathus stercoreus,Dung Bird's Nest
+Cyathus striatus,Fluted Bird's Nest
+Cystoderma amianthinum,Earthy Powdercap
+Cystoderma carcharias,Pearly Powdercap
+Cystoderma jasonis,Pine Powdercap
+Cystodermella cinnabarina,Cinnabar Powdercap
+Cystolepiota bucknallii,Lilac Dapperling
+Cystolepiota seminuda,Bearded Dapperling
+Cytidia salicina,Scarlet Splash
+Dacrymyces chrysospermus,Orange Jelly Spot
+Dacrymyces ovisporus,Pine Jelly Spot
+Dacrymyces stillatus,Common Jelly Spot
+Dacryobolus sudans,Weeping Toothcrust
+Daedalea quercina,Oak Mazegill
+Daedaleopsis confragosa,Blushing Bracket
+Daldinia concentrica,King Alfred's Cakes / Cramp Balls
+Datronia mollis,Common Mazegill
+Dencoeliopsis johnstonii,Birch Cup
+Dendrocollybia racemosa,Branched Shanklet
+Dermoloma cuneifolium,Crazed Cap
+Dermoloma pseudocuneifolium,Dark Crazed Cap
+Diatrype bullata,Willow Barkspot
+Diatrype disciformis,Beech Barkspot
+Diatrype stigma,Common Tarcrust
+Dicellomyces scirpi,Wood Clubrush Smut
+Disciotis venosa,Bleach Cup
+Doassansia limosellae,Mudwort Smut
+Dumontinia tuberosa,Anemone Cup
+Elaphocordyceps ophioglossoides,Snaketongue Truffleclub
+Elaphomyces granulatus,False Truffle
+Encoelia fimbriata,Fringed Cup
+Encoelia furfuracea,Spring Hazelcup
+Encoelia glauca,Green Hazelcup
+Entoloma aethiops,Black Pinkgill
+Entoloma aprile,April Pinkgill
+Entoloma bloxamii,Big Blue Pinkgill 
+Entoloma catalaunicum,Bluefoot Pinkgill
+Entoloma cetratum,Honey Pinkgill
+Entoloma chalybaeum,Indigo Pinkgill
+Entoloma clypeatum,Shield Pinkgill
+Entoloma conferendum,Star Pinkgill
+Entoloma corvinum,Crow Pinkgill
+Entoloma dichroum,Bicoloured Pinkgill
+Entoloma excentricum,Excentric Pinkgill
+Entoloma griseocyaneum,Felted Pinkgill
+Entoloma hebes,Pimple Pinkgill
+Entoloma incanum,Mousepee Pinkgill
+Entoloma indutoides,Drab Pinkgill
+Entoloma jubatum,Sepia Pinkgill
+Entoloma nitidum,Pine Pinkgill
+Entoloma papillatum,Papillate Pinkgill
+Entoloma pleopodium,Aromatic Pinkgill
+Entoloma porphyrophaeum,Lilac Pinkgill
+Entoloma prunuloides,Mealy Pinkgill
+Entoloma rhodopolium,Wood Pinkgill
+Entoloma roseum,Rosy Pinkgill
+Entoloma sericellum,Cream Pinkgill
+Entoloma sericeum,Silky Pinkgill
+Entoloma serrulatum,Blue Edge Pinkgill
+Entoloma sinuatum,Livid Pinkgill
+Entoloma tjallingiorum,Hairy Pinkgill
+Entoloma turbidum,Yellowfoot Pinkgill
+Entyloma chrysosplenii,Saxifrage Smut
+Entyloma eryngii,Sea Holly Smut
+Entyloma henningsianum,Brookweed Smut
+Entyloma ossifragi,Bog Asphodel Smut
+Eocronartium muscicola,Moss Rust
+Epichloe typhina,Choke
+Erastia salmonicolor,Salmon Bracket
+Eutypa spinosa,Spiral Tarcrust
+Exidia glandulosa,Witches' Butter
+Exidia nucleata,Crystal Brain
+Exidia recisa,Amber Jelly
+Exidia repanda,Birch Jelly
+Exidia saccharina,Pine Jelly
+Exidia thuretiana,White Brain
+Exobasidium expansum,Northern Bilberry Redleaf
+Exobasidium juelianum,Dwarfing Redleaf
+Exobasidium myrtilli,Blaeberry Redleaf
+Exobasidium sydowianum,Bearberry Redleaf
+Exobasidium vaccinii,Cowberry Redleaf
+Faerberia carbonaria,Firesite Funnel
+Fayodia bisphaerigera,Slender Navel
+Fistulina hepatica,Beefsteak Fungus
+Flammulina velutipes,Velvet Shank
+Flaviporus brownei,Yellowpored Bracket
+Fomes fomentarius,Hoof Fungus / Tinder Bracket
+Fomitiporia punctata,Elbowpatch Crust
+Fomitopsis pinicola,Red-belted Bracket
+Fomitopsis rosea,Rose Bracket
+Fuscoporia ferrea,Cinnamon Porecrust
+Fuscoporia ferruginosa,Rusty Porecrust
+Fuscoporia torulosa,Tufted Bracket
+Galerina harrisonii,Snowbed Bell
+Galerina hypnorum,Moss Bell
+Galerina marginata,Funeral Bell
+Galerina paludosa,Bog Bell
+Galerina pumila,Dwarf Bell
+Galerina vittiformis,Hairy Leg Bell
+Ganoderma applanatum,Artist's Bracket
+Ganoderma australe,Southern Bracket
+Ganoderma lucidum,Lacquered Bracket
+Ganoderma pfeifferi,Beeswax Bracket
+Geastrum berkeleyi,Berkeley's Earthstar
+Geastrum campestre,Field Earthstar
+Geastrum corollinum,Weathered Earthstar
+Geastrum coronatum,Crowned Earthstar
+Geastrum elegans,Elegant Earthstar
+Geastrum fimbriatum,Sessile Earthstar
+Geastrum fornicatum,Arched Earthstar
+Geastrum lageniforme,Flask Earthstar
+Geastrum minimum,Tiny Earthstar
+Geastrum quadrifidum,Rayed Earthstar
+Geastrum schmidelii,Dwarf Earthstar
+Geastrum striatum,Striate Earthstar
+Geastrum triplex,Collared Earthstar
+Geoglossum atropurpureum,Dark-purple Earthtongue
+Geoglossum elongatum,Elongate Earthtongue
+Geoglossum glutinosum,Glutinous Earthtongue
+Geoglossum peckianum,Slimy Earthtongue
+Geoglossum starbaeckii,Star Earthtongue
+Geoglossum uliginosum,Viscid Earthtongue
+Geoglossum umbratile,Plain Earthtongue
+Geopora arenosa s.s,Mountain Cup
+Geopora sumneriana,Cedar Cup
+Geopyxis carbonaria,Stalked Bonfire Cup
+Gloeophyllum odoratum,Anise Mazegill
+Gloeophyllum sepiarium,Conifer Mazegill
+Gloeophyllum trabeum,Timber Mazegill
+Gloeoporus dichrous,Bicoloured Bracket
+Gomphidius glutinosus,Slimy Spike
+Gomphidius maculatus,Larch Spike
+Gomphidius roseus,Rosy Spike
+Gomphus clavatus,Pig's Ear
+Grifola frondosa,Hen of the Woods
+Guepinia helvelloides,Salmon Salad
+Gymnopilus dilepis,Magenta Rustgill
+Gymnopilus junonius,Spectacular Rustgill
+Gymnopilus penetrans,Common Rustgill
+Gymnopilus sapineus,Scaly Rustgill
+Gymnopus acervatus,Conifer Toughshank
+Gymnopus androsaceus,Horsehair Parachute
+Gymnopus brassicolens,Cabbage Parachute
+Gymnopus confluens,Clustered Toughshank
+Gymnopus dryophilus,Russet Toughshank
+Gymnopus erythropus,Redleg Toughshank
+Gymnopus foetidus,Foetid Parachute
+Gymnopus fusipes,Spindle Toughshank
+Gymnopus perforans,Stinking Parachute
+Gymnopus peronatus,Wood Woollyfoot
+Gymnopus putillus,Pine Toughshank
+Gyrodon lividus,Alder Bolete
+Gyromitra ambigua,Changeable False Morel
+Gyromitra esculenta,False Morel
+Gyromitra infula,Pouched False Morel
+Gyromitra leucoxantha,Fishtail Cup
+Gyroporus castaneus,Chestnut Bolete
+Gyroporus cyanescens,Cornflower Bolete
+Haasiella venustissima,Orange Navel
+Hapalopilus nidulans,Cinnamon Bracket
+Haradaea duriaeana,Chickweed Seedsmut
+Hebeloma crustuliniforme,Poisonpie
+Hebeloma mesophaeum,Veiled Poisonpie
+Hebeloma radicosum,Rooting Poisonpie
+Hebeloma sacchariolens,Sweet Poisonpie
+Hebeloma sinapizans,Bitter Poisonpie
+Helvella acetabulum,Vinegar Cup
+Helvella crispa,White Saddle
+Helvella elastica,Elastic Saddle
+Helvella lacunosa,Elfin Saddle
+Helvella leucomelaena,Sooty Cup
+Helvella leucopus,Palefoot Saddle
+Helvella macropus,Felt Saddle
+Hemimycena lactea,Milky Bonnet
+Hemimycena tortuosa,Dewdrop Bonnet
+Henningsomyces candidus,White Tubelet
+Hericium cirrhatum,Tiered Tooth 
+Hericium coralloides,Coral Tooth 
+Hericium erinaceus,Bearded Tooth 
+Heterobasidion annosum,Root Rot
+Hohenbuehelia auriscalpium,Spatula Oyster
+Hohenbuehelia culmicola,Marram Oyster
+Hohenbuehelia mastrucata,Woolly Oyster
+Humaria hemisphaerica,Glazed Cup
+Hyalopsora adianti-capilli-veneris,Maidenhair Rust
+Hyalopsora aspidiotus,Oak Fern Rust
+Hydnellum aurantiacum,Orange Tooth
+Hydnellum caeruleum,Blue Tooth
+Hydnellum concrescens,Zoned Tooth
+Hydnellum ferrugineum,Mealy Tooth
+Hydnellum peckii,Devil's Tooth
+Hydnellum scrobiculatum,Ridged Tooth
+Hydnellum spongiosipes,Velvet Tooth
+Hydnotrya cubispora,Cubed Fold Truffle
+Hydnotrya tulasnei,Red Fold Truffle
+Hydnum repandum,Wood Hedgehog
+Hydnum rufescens,Terracotta Hedgehog
+Hygrocybe acutoconica,Persistent Waxcap
+Hygrocybe aurantiosplendens,Orange Waxcap
+Hygrocybe calciphila,Limestone Waxcap
+Hygrocybe calyptriformis,Pink Waxcap 
+Hygrocybe cantharellus,Goblet Waxcap
+Hygrocybe ceracea,Butter Waxcap
+Hygrocybe chlorophana,Golden Waxcap
+Hygrocybe citrinovirens,Citrine Waxcap
+Hygrocybe coccinea,Scarlet Waxcap
+Hygrocybe colemanniana,Toasted Waxcap
+Hygrocybe conica,Blackening Waxcap
+Hygrocybe conicoides,Dune Waxcap
+Hygrocybe flavipes,Yellow Foot Waxcap
+Hygrocybe fornicata,Earthy Waxcap
+Hygrocybe glutinipes,Glutinous Waxcap
+Hygrocybe ingrata,Dingy Waxcap
+Hygrocybe insipida,Spangle Waxcap
+Hygrocybe intermedia,Fibrous Waxcap
+Hygrocybe irrigata,Slimy Waxcap
+Hygrocybe lacmus,Grey Waxcap
+Hygrocybe laeta,Heath Waxcap
+Hygrocybe lilacina,Lilac Waxcap
+Hygrocybe miniata,Vermilion Waxcap
+Hygrocybe mucronella,Bitter Waxcap
+Hygrocybe nitrata,Nitrous Waxcap
+Hygrocybe ovina,Blushing Waxcap
+Hygrocybe pratensis,Meadow Waxcap
+Hygrocybe pratensis var. pallida,Pale Waxcap
+Hygrocybe psittacina,Parrot Waxcap
+Hygrocybe punicea,Crimson Waxcap
+Hygrocybe quieta,Oily Waxcap
+Hygrocybe radiata,Slender Waxcap
+Hygrocybe reidii,Honey Waxcap
+Hygrocybe russocoriacea,Cedarwood Waxcap
+Hygrocybe salicis-herbaceae,Mountain Waxcap
+Hygrocybe spadicea,Date Waxcap 
+Hygrocybe splendidissima,Splendid Waxcap
+Hygrocybe viola,Amethyst Waxcap
+Hygrocybe virginea,Snowy Waxcap
+Hygrocybe xanthochroa,Alpine Waxcap
+Hygrophoropsis aurantiaca,False Chanterelle
+Hygrophorus agathosmus,Almond Woodwax
+Hygrophorus arbustivus,Forest Woodwax
+Hygrophorus camarophyllus,Arched Woodwax
+Hygrophorus chrysodon,Gold Flecked Woodwax
+Hygrophorus discoxanthus,Yellowing Woodwax
+Hygrophorus eburneus,Ivory Woodwax
+Hygrophorus erubescens,Blotched Woodwax
+Hygrophorus erubescens,Blotched Woodwax
+Hygrophorus hypothejus,Herald of Winter
+Hygrophorus lucorum,Larch Woodwax
+Hygrophorus mesotephrus,Ashen Woodwax
+Hygrophorus nemoreus,Oak Woodwax
+Hygrophorus penarius,Matt Woodwax
+Hygrophorus pudorinus,Rosy Woodwax
+Hygrophorus russula,Pinkmottle Woodwax
+Hymenochaete corrugata,Glue Crust
+Hymenochaete rubiginosa,Oak Curtain Crust
+Hymenochaete tabacina,Willow Glue
+Hymenoscyphus fructigenus,Nut Disco
+Hyphodontia sambuci,Elder Whitewash
+Hypholoma capnoides,Conifer Tuft
+Hypholoma elongatum,Sphagnum Brownie
+Hypholoma fasciculare,Sulphur Tuft
+Hypholoma lateritium,Brick Tuft
+Hypholoma marginatum,Snakeskin Brownie
+Hypholoma myosotis,Olive Brownie
+Hypholoma radicosum,Rooting Brownie
+Hypholoma udum,Peat Brownie
+Hypocrea pulvinata,Ochre Cushion
+Hypocreopsis lichenoides,Willow Gloves
+Hypocreopsis rhododendri,Hazel Gloves
+Hypomyces chrysospermus,Bolete Mould
+Hypomyces luteovirens,Green Gillgobbler
+Hypoxylon fragiforme,Beech Woodwart
+Hypoxylon fuscum,Hazel Woodwart
+Hypoxylon multiforme,Birch Woodwart
+Hypoxylon rubiginosum,Rusty Woodwart
+Hypsizygus ulmarius,Elm Leech
+Ileodictyon cibarium,Basket Fungus
+Inocybe arenicola,Sand Fibrecap
+Inocybe asterospora,Star Fibrecap
+Inocybe bongardii,Fruity Fibrecap
+Inocybe calamistrata,Greenfoot Fibrecap
+Inocybe cincinnata,Collared Fibrecap
+Inocybe cookei,Straw Fibrecap
+Inocybe corydalina,Greenflush Fibrecap
+Inocybe duriuscula,Silky Fibrecap
+Inocybe erubescens,Deadly Fibrecap
+Inocybe flocculosa,Fleecy Fibrecap
+Inocybe fraudans,Pear Fibrecap
+Inocybe geophylla,White Fibrecap
+Inocybe geophylla var. lilacina,Lilac Fibrecap
+Inocybe griseolilacina,Lilac Leg Fibrecap
+Inocybe hystrix,Scaly Fibrecap
+Inocybe jacobi,Pineling Fibrecap
+Inocybe lacera,Torn Fibrecap
+Inocybe maculata,Frosty Fibrecap
+Inocybe napipes,Bulbous Fibrecap
+Inocybe petiginosa,Scurfy Fibrecap
+Inocybe rimosa,Split Fibrecap
+Inocybe stellatospora,Woolly Fibrecap
+Inocybe vulpinella,Foxy Fibrecap
+Inocybe whitei,Blushing Fibrecap
+Inonotus cuticularis,Clustered Bracket
+Inonotus hispidus,Shaggy Bracket
+Inonotus obliquus,Chaga
+Irpicodon pendulus,Pendent Bracket
+Ischnoderma benzoinum,Benzoin Bracket
+Jafneadelphus amethystinus,Amethyst Disco
+Jamesdicksonia irregularis,Annual Meadow Grass Smut
+Kretzschmaria deusta,Brittle Cinder
+Kuehneola uredinis,Pale Bramble Rust
+Kuehneromyces lignicola,Conifer Woodtuft
+Kuehneromyces mutabilis,Sheathed Woodtuft
+Laccaria amethystina,Amethyst Deceiver
+Laccaria bicolor,Bicoloured Deceiver
+Laccaria laccata,Deceiver
+Laccaria maritima,Sand Deceiver
+Laccaria proxima,Scurfy Deceiver
+Laccaria tortilis,Twisted Deceiver
+Lachnellula occidentalis,Larch Disco
+Lachnellula subtilissima,Conifer Disco
+Lachnellula willkommii,Larch Canker Disco
+Lachnum apalum,Rush Disco
+Lachnum callimorphum,Heath Sedge Disco
+Lachnum virgineum,Snowy Disco
+Lacrymaria lacrymabunda,Weeping Widow
+Lactarius acerrimus,Two Spored Milkcap
+Lactarius aurantiacus,Orange Milkcap
+Lactarius blennius,Beech Milkcap
+Lactarius camphoratus,Curry Milkcap
+Lactarius chrysorrheus,Yellowdrop Milkcap
+Lactarius deliciosus,Saffron Milkcap
+Lactarius deterrimus,False Saffron Milkcap
+Lactarius fuliginosus,Sooty Milkcap
+Lactarius fulvissimus,Tawny Milkcap
+Lactarius glyciosmus,Coconut Milkcap
+Lactarius helvus,Fenugreek Milkcap
+Lactarius hepaticus,Liver Milkcap
+Lactarius lilacinus,Lilac Milkcap
+Lactarius luridus,Lurid Milkcap
+Lactarius mairei,Whiskery Milkcap
+Lactarius musteus,Pine Milkcap
+Lactarius obscuratus,Alder Milkcap
+Lactarius pallidus,Pale Milkcap
+Lactarius piperatus,Peppery Milkcap
+Lactarius porninsis,Larch Milkcap
+Lactarius pubescens,Bearded Milkcap
+Lactarius pyrogalus,Fiery Milkcap
+Lactarius quietus,Oakbug Milkcap
+Lactarius repraesentaneus,Yellow Bearded Milkcap
+Lactarius resimus,Rollrim Milkcap
+Lactarius rufus,Rufous Milkcap
+Lactarius salicis-reticulatae,Mountain Milkcap
+Lactarius scoticus,Hoary Milkcp
+Lactarius scrobiculatus,Spotted Milkcap
+Lactarius serifluus,Watery Milkcap
+Lactarius spinosulus,Lilacscale Milkcap
+Lactarius subdulcis,Mild Milkcap
+Lactarius tabidus,Birch Milkcap
+Lactarius torminosus,Woolly Milkcap
+Lactarius turpis,Ugly Milkcap
+Lactarius vellereus,Fleecy Milkcap
+Lactarius vietus,Grey Milkcap
+Lactarius volemus,Fishy Milkcap
+Laetinaevia luzulae,Woodrush Disco
+Laetiporus sulphureus,Chicken of the Woods
+Lanzia echinophila,Hairy Nuts Disco 
+Lasiobotrys lonicerae,Honeysuckle Rash
+Leccinum aurantiacum,Orange Bolete
+Leccinum crocipodium,Saffron Bolete
+Leccinum duriusculum,Slate Bolete
+Leccinum holopus,Ghost Bolete
+Leccinum pseudoscabrum,Hazel Bolete
+Leccinum scabrum,Brown Birch Bolete
+Leccinum variicolor,Mottled Bolete
+Leccinum versipelle,Orange Birch Bolete
+Leccinum vulpinum,Foxy Bolete
+Lentinellus cochleatus,Aniseed Cockleshell
+Lentinus tigrinus,Tiger Sawgill
+Lenzites betulinus,Birch Mazegill
+Leotia lubrica,Jellybaby
+Lepiota aspera,Freckled Dapperling
+Lepiota boudieri,Girdled Dapperling
+Lepiota brunneoincarnata,Deadly Dapperling
+Lepiota brunneolilacea,Star Dapperling
+Lepiota castanea,Chestnut Dapperling
+Lepiota clypeolaria,Shield Dapperling
+Lepiota cristata,Stinking Dapperling
+Lepiota felina,Cat Dapperling
+Lepiota grangei,Green Dapperling
+Lepiota magnispora,Yellowfoot Dapplerling
+Lepiota subincarnata,Fatal Dapperling
+Lepista flaccida,Tawny Funnel
+Lepista irina,Flowery Blewit
+Lepista nuda,Wood Blewit
+Lepista saeva,Field Blewit
+Leptoporus mollis,Soft Bracket
+Leptosphaeria acuta,Nettle Rash
+Leratiomyces ceres,Redlead Roundhead
+Leratiomyces squamosus var. thraustus,Slender Roundhead
+Leucoagaricus badhamii,Blushing Dapperling
+Leucoagaricus barssii,Smoky Dapperling
+Leucoagaricus leucothites,White Dapperling
+Leucoagaricus sublittoralis,Apricot Dapperling
+Leucocoprinus birnbaumii,Plantpot Dapperling
+Leucocoprinus brebissonii,Skullcap Dapperling
+Leucocortinarius bulbiger,White Webcap
+Leucopaxillus gentianeus,Bitter Funnel
+Leucopaxillus giganteus,Giant Funnel
+Lichenomphalia alpina,Sunburst Lichen
+Lichenomphalia umbellifera,Heath Navel
+Limacella guttata,Weeping Slimecap
+Limacella illinita,Dripping Slimecap
+Limacella ochraceolutea,Ochre Slimecap
+Lophodermium hedericola,Ivy Leaf Split
+Lophodermium juniperinum,Juniper Split
+Lophodermium neesii,Holly Leaf Split
+Lophodermium pinastri,Pine Needle Split
+Loreleia marchantiae,Liverwort Navel
+Lycoperdon caudatum,Pedicel Puffball
+Lycoperdon decipiens,Steppe Puffball
+Lycoperdon echinatum,Spiny Puffball
+Lycoperdon ericaeum,Heath Puffball
+Lycoperdon excipuliforme,Pestle Puffball
+Lycoperdon lividum,Grassland Puffball
+Lycoperdon mammiforme,Flaky Puffball
+Lycoperdon molle,Soft Puffball
+Lycoperdon nigrescens,Dusky Puffball
+Lycoperdon perlatum,Common Puffball
+Lycoperdon pratense,Meadow Puffball
+Lycoperdon pyriforme,Stump Puffball
+Lycoperdon radicatum,Rooting Puffball
+Lycoperdon utriforme,Mosaic Puffball
+Lyophyllum connatum,White Domecap
+Lyophyllum decastes,Clustered Domecap
+Lyophyllum gangraenosum,Smoky Domecap
+Macrocystidia cucumis,Cucumber Cap
+Macrolepiota mastoidea,Slender Parasol
+Macrolepiota procera,Parasol
+Macrotyphula fistulosa,Pipe Club
+Macrotyphula juncea,Slender Club
+Marasmiellus ramealis,Twig Parachute
+Marasmiellus vaillantii,Goblet Parachute
+Marasmius buxi,Box Parachute
+Marasmius epiphyllus,Leaf Parachute
+Marasmius hudsonii,Holly Parachute
+Marasmius oreades,Fairy Ring Champignon
+Marasmius rotula,Collared Parachute
+Marasmius wynnei,Pearly Parachute
+Megacollybia platyphylla,Whitelaced Shank
+Melampsora vernalis,Saxifrage Rust
+Melampsoridium betulinum,Birch Rust
+Melanoleuca brevipes,Stunted Cavalier
+Melanoleuca cinereifolia,Dune Cavalier
+Melanoleuca cognata,Spring Cavalier
+Melanoleuca exscissa,Smoky Cavalier
+Melanoleuca melaleuca,Bald Knight
+Melanoleuca polioleuca,Common Cavalier
+Melanoleuca schumacheri,Clouded  Cavalier
+Melanoleuca verrucipes,Warty Cavalier
+Melanophyllum eyrei,Greenspored Dapperling
+Melanophyllum haematospermum,Redspored Dapperling
+Melanotaenium cingens,Yellow Toadflax Smut
+Melanotaenium endogenum,Bedstraw Smut
+Melanotus horizontalis,Wood Oysterling
+Melastiza cornubiensis,Orange Cup
+Mensularia radiata,Alder Bracket
+Meripilus giganteus,Giant Polypore
+Merismodes fasciculata,Crowded Cuplet
+Metacoleroa dickiei,Twinflower Rust
+Microbotryum lychnidis-dioicae,Campion Anther Smut
+Microglossum olivaceum,Olive Earthtongue
+Microglossum viride,Green Earthtongue
+Microstoma protracta,Rosy Goblet
+Milesina carpatorum,Male Fern Rust
+Milesina vogesiaca,Smooth Spored Fern Rust
+Milesina whitei,Shield-fern Rust
+Mitrophora semilibera,Semifree Morel
+Mitrula paludosa,Bog Beacon
+Mitrula sclerotipus,Burning Beacon
+Mollisia cinerea,Common Grey Disco
+Monilinia johnsonii,Haw Goblet
+Morchella elata,Black Morel
+Morchella esculenta,Morel
+Mucor mucedo,Common Pinmould
+Mucronella calva,Swarming Spine
+Multiclavula vernalis,Moss Club
+Mutinus caninus,Dog Stinkhorn
+Mycena acicula,Orange Bonnet
+Mycena adonis,Scarlet Bonnet
+Mycena adscendens,Frosty Bonnet
+Mycena aetites,Drab Bonnet
+Mycena amicta,Coldfoot Bonnet
+Mycena arcangeliana,Angel's Bonnet
+Mycena aurantiomarginata,Golden Edge Bonnet
+Mycena capillaripes,Pinkedge Bonnet
+Mycena capillaris,Beechleaf Bonnet
+Mycena cinerella,Mealy Bonnet
+Mycena crocata,Saffrondrop Bonnet
+Mycena epipterygia,Yellowleg Bonnet
+Mycena filopes,Iodine Bonnet
+Mycena flavoalba,Ivory Bonnet
+Mycena galericulata,Common Bonnet
+Mycena galopus,Milking Bonnet
+Mycena galopus var. candida,White Milking Bonnet
+Mycena galopus var. nigra,Black Milking Bonnet
+Mycena haematopus,Burgundydrop Bonnet
+Mycena inclinata,Clustered Bonnet
+Mycena latifolia,Sideshoot Bonnet
+Mycena leptocephala,Nitrous Bonnet
+Mycena megaspora,Rooting Bonnet
+Mycena olida,Rancid Bonnet
+Mycena olivaceomarginata,Brownedge Bonnet
+Mycena pelianthina,Blackedge Bonnet
+Mycena picta,Cryptic Bonnet
+Mycena polygramma,Grooved Bonnet
+Mycena pura,Lilac Bonnet
+Mycena purpureofusca,Purple Edge Bonnet
+Mycena renati,Beautiful Bonnet
+Mycena rorida,Dripping Bonnet
+Mycena rosea,Rosy Bonnet
+Mycena rosella,Pink Bonnet
+Mycena rubromarginata,Red Edge Bonnet
+Mycena sanguinolenta,Bleeding Bonnet
+Mycena septentrionalis,Pelargonium Bonnet
+Mycena speirea,Bark Bonnet
+Mycena stylobates,Bulbous Bonnet
+Mycena urania,Violet Bonnet
+Mycena viridimarginata,Olive Edge Bonnet
+Mycena vitilis,Snapping Bonnet
+Mycenella salicina,Willow Bonnet
+Mycetinis alliaceus,Garlic Parachute
+Mycetinis scorodonius,Vampires Bane
+Mycocalia duriaeana,Dune Cannon
+Mycocalia sphagneti,Bog Cannon
+Myriostoma coliforme,Pepper Pot
+Naucoria escharioides,Ochre Aldercap
+Naucoria striatula,Striate Aldercap
+Nectria cinnabarina,Coral Spot
+Neobulgaria pura,Beech Jellydisc
+Neolentinus adhaerens,Sticky Sawgill
+Neolentinus lepideus,Scaly Sawgill
+Nyssopsora echinata,Spignel Rust
+Octaviania asterosperma,Chalky False Truffle
+Octospora humosa,Hotlips
+Ombrophila violacea,Violet Jellydisc
+Omphalina galericolor,Dune Navel
+Omphalina pyxidata,Cinnamon Navel
+Omphalotus illudens,Jack O Lantern
+Onygena corvina,Feather Stalkball
+Onygena equina,Horn Stalkball
+Ophiostoma ulmi,Dutch Elm Disease
+Orbilia xanthostigma,Common Glasscup
+Ossicaulis lignatilis,Mealy Oyster
+Otidea alutacea,Tan Ear
+Otidea apophysata,Big Ears
+Otidea bufonia,Toad's Ear
+Otidea cantharella,Cupped Ear
+Otidea cochleata,Brown Ear
+Otidea onotica,Hare's Ear
+Otidea phlebophora,Veined Ear
+Oudemansiella mucida,Porcelain Fungus
+Oxyporus latemarginatus,Frothy Porecrust
+Oxyporus populinus,Poplar Bracket
+Pachyella violaceonigra,Midnight Disco
+Panaeolina foenisecii,Brown Mottlegill
+Panaeolus acuminatus,Dewdrop Mottlegill
+Panaeolus cinctulus,Banded Mottlegill
+Panaeolus fimicola,Turf Mottlegill
+Panaeolus papilionaceus,Petticoat Mottlegill
+Panaeolus semiovatus,Egghead Mottlegill
+Panellus mitis,Elastic Oysterling
+Panellus ringens,Winter Oysterling
+Panellus stipticus,Bitter Oysterling
+Panus conchatus,Lilac Oysterling
+Parasola plicatilis,Pleated Inkcap
+Paurocotylis pila,Scarlet Berry Truffle
+Paxillus involutus,Brown Rollrim
+Peniophora incarnata,Rosy Crust
+Perenniporia medulla-panis,Pancake Crust
+Peziza ammophila,Dune Cup
+Peziza badia,Bay Cup
+Peziza cerea,Cellar Cup
+Peziza echinospora,Charcoal Cup
+Peziza gerardii,Mull Disco
+Peziza proteana f. sparassoides,Bonfire Cauliflower
+Peziza repanda,Palamino Cup
+Peziza saccardiana,Pouch Cup
+Peziza succosa,Yellowing Cup
+Peziza vacini,Bonfire Disco
+Peziza varia,Layered Cup
+Peziza vesiculosa,Blistered Cup
+Phaeocollybia lugubris,Russet Rootshank
+Phaeolepiota aurea,Golden Bootleg
+Phaeolus schweinitzii,Dyer's Mazegill
+Phaeomarasmius erinaceus,Hedgehog Scalycap
+Phallus hadriani,Sand Stinkhorn
+Phallus impudicus,Stinkhorn
+Phellinus igniarius,Willow Bracket
+Phellinus pomaceus,Cushion Bracket
+Phellinus tremulae,Aspen Bracket
+Phellodon confluens,Fused Tooth
+Phellodon melaleucus,Grey Tooth
+Phellodon niger,Black Tooth
+Phellodon tomentosus,Woolly Tooth
+Phlebia radiata,Wrinkled Crust
+Phlebia tremellosa,Jelly Rot
+Phlebiella sulphurea,Yellow Cobweb
+Phleogena faginea,Fenugreek Stalkball
+Pholiota alnicola,Alder Scalycap
+Pholiota astragalina,Conifer Scalycap
+Pholiota aurivella,Golden Scalycap
+Pholiota flammans,Flaming Scalycap
+Pholiota gummosa,Sticky Scalycap
+Pholiota highlandensis,Bonfire Scalycap
+Pholiota squarrosa,Shaggy Scalycap
+Pholiota subochracea,Ochre Scalycap
+Phragmidium acuminatum,Stone Bramble Rust
+Phragmidium violaceum,Violet Bramble Rust
+Phylloporus pelletieri,Golden Gilled Bolete
+Phyllotopsis nidulans,Orange Mock Oyster
+Physisporinus sanguinolentus,Bleeding Porecrust
+Phytophthora infestans,Potato Blight
+Pilobolus crystallinus,Dung Cannon
+Piptoporus betulinus,Birch Polypore / Razorstrop Fungus
+Piptoporus quercinus,Oak Polypore
+Pisolithus arhizus,Dyeball
+Pithya cupressina,Juniper Disco
+Pithya vulgaris,Fir Disco
+Plectania melastoma,Corona Cup
+Pleurocybella porrigens,Angel's Wings
+Pleurotus cornucopiae,Branching Oyster
+Pleurotus dryinus,Veiled Oyster
+Pleurotus ostreatus,Oyster Mushroom
+Pleurotus pulmonarius,Pale Oyster
+Plicariella radula,Toothed Disco
+Plicatura crispa,Crimped Gill
+Pluteus atromarginatus,Blackedged Shield
+Pluteus cervinus,Deer Shield
+Pluteus chrysophaeus,Yellow Shield
+Pluteus leoninus,Lion Shield
+Pluteus nanus,Dwarf Shield
+Pluteus pellitus,Ghost Shield
+Pluteus phlebophorus,Wrinkled Shield
+Pluteus plautus,Satin Shield
+Pluteus romellii,Goldleaf Shield
+Pluteus salicinus,Willow Shield
+Pluteus thomsonii,Veined Shield
+Pluteus umbrosus,Velvet Shield
+Podoscypha multizonata,Zoned Rosette 
+Podosphaera volkartii,Mountain Avens Mildew
+Podostroma alutaceum,Dogend
+Polyporus brumalis,Winter Polypore
+Polyporus ciliatus,Fringed Polypore
+Polyporus durus,Bay Polypore
+Polyporus leptocephalus,Blackfoot Polypore
+Polyporus squamosus,Dryad's Saddle
+Polyporus tuberaster,Tuberous Polypore
+Polyporus umbellatus,Umbrella Polypore
+Polystigma fulvum,Bird Cherry Dotty
+Polystigma rubrum,Blackthorn Dotty
+Porodaedalea pini,Pine Bracket
+Poronia erici,Dung Button
+Poronia punctata,Nail Fungus
+Porphyrellus porphyrosporus,Dusky Bolete
+Porpoloma metapodium,Mealy Meadowcap
+Porpoloma spinulosum,Aromatic Meadowcap
+Postia caesia,Conifer Blueing Bracket
+Postia ptychogaster,Powderpuff Bracket
+Postia stiptica,Bitter Bracket
+Postia subcaesia,Blueing Bracket
+Postia tephroleuca,Greyling Bracket
+Psathyrella ammophila,Dune Brittlestem
+Psathyrella artemisiae,Petticoat Brittlestem
+Psathyrella candolleana,Pale Brittlestem
+Psathyrella caput-medusae,Medusa Brittlestem
+Psathyrella conopilus,Conical Brittlestem
+Psathyrella corrugis,Red Edge Brittlestem
+Psathyrella cotonea,Yellowfoot Brittlestem
+Psathyrella maculata,Spotted Brittlestem
+Psathyrella microrhiza,Rootlet Brittlestem
+Psathyrella multipedata,Clustered Brittlestem
+Psathyrella piluliformis,Common Stump Brittlestem
+Psathyrella solitaria,Solitary Brittlestem
+Psathyrella spadicea,Chestnut Brittlestem
+Psathyrella spadiceogrisea,Spring Brittlestem
+Pseudoboletus parasiticus,Parasitic Bolete
+Pseudoclitocybe cyathiformis,Goblet
+Pseudocraterellus undulatus,Sinuous Chanterelle
+Pseudohydnum gelatinosum,Jelly Tooth
+Pseudoinonotus dryadeus,Oak Bracket
+Pseudomerulius aureus,Orange Netcrust
+Pseudoplectania nigrella,Ebony Cup
+Psilocybe cyanescens,Blueleg Brownie
+Psilocybe montana,Mountain Brownie
+Psilocybe semilanceata,Magic Mushroom / Liberty Cap
+Pterula caricis-pendulae,Pendulous Sedge Club
+Pterula debilis,Rush Coral
+Puccinia albulensis,Alpine Veronica Rust
+Puccinia asparagi,Asparagus Rust
+Puccinia bulbocastani,Great Pignut Rust
+Puccinia cicutae,Cowbane Rust
+Puccinia cladii,Great Fen Sedge Rust
+Puccinia clintonii,Lousewort Rust
+Puccinia eriophori,Deer Grass Rust
+Puccinia eutremae,Scurvy-grass Rust
+Puccinia hydrocotyles,Rusty Pennies
+Puccinia libanotidis,Moon Carrot Rust
+Puccinia longissima,Crested Hair-grass Rust
+Puccinia mariana,Milk Thistle Rust
+Puccinia microsora,Bladder Sedge Rust
+Puccinia moliniae,Purple Moor Grass Rust
+Puccinia nemoralis,Cow-wheat Clustercup Rust
+Puccinia oxyriae,Mountain Sorrel Rust
+Puccinia physospermi,Bladder-seed Rust
+Puccinia polemonii,Jacob's Ladder Rust
+Puccinia pratensis,Meadow Oat-grass Rust
+Puccinia ribis,Downy Currant Rust
+Puccinia rugulosa,Hog's Fennel Rust
+Puccinia scirpi,Common Club Rush Rust
+Puccinia scorzonerae,Scorzonera Rust
+Puccinia septentrionalis,Alpine Rust
+Puccinia thesii,Bastard-toadflax Rust
+Puccinia thymi,Thyme Rust
+Puccinia urticata,Nettle Clustercup Rust
+Pucciniastrum goodyerae,Creeping Ladies Tresses Rust
+Pycnoporus cinnabarinus,Cinnabar Bracket
+Pycnoporus sanguineus,Blood Red Bracket
+Ramaria botrytis,Rosso Coral
+Ramaria broomei,Blackening Coral
+Ramaria decurrens,Ochre Coral
+Ramaria formosa,Salmon Coral
+Ramaria stricta,Upright Coral
+Ramaria suecica,Parading Coral
+Ramariopsis crocea,Orange Coral
+Ramariopsis kunzei,Ivory Coral
+Ramariopsis pulchella,Lilac Coral
+Resupinatus applicatus,Smoked Oysterling
+Rhizina undulata,Pine Firefungus
+Rhizopogon luteolus,Yellow False Truffle
+Rhodocollybia butyracea,Butter Cap
+Rhodocollybia maculata,Spotted Toughshank
+Rhodocollybia prolixa,Toothed Toughshank
+Rhodocybe gemina,Tan Pinkgill
+Rhodotus palmatus,Wrinkled Peach
+Rhopographus filicinus,Bracken Map
+Rhytisma acerinum,Sycamore Tarspot
+Rhytisma salicinum,Willow Tarspot
+Rickenella fibula,Orange Mosscap
+Rickenella swartzii,Collared Mosscap
+Rigidoporus ulmarius,Giant Elm Bracket
+Rimbachia arachnoidea,Spidery Mossear
+Rimbachia bryophila,Veined Mossear
+Ripartites tricholoma,Bearded Seamine
+Rubinoboletus rubinus,Crimson Bolete
+Rugosomyces carneus,Pink Domecap
+Rugosomyces chrysenteron,Yellow Domecap
+Rugosomyces ionides,Violet Domecap
+Rugosomyces onychinus,Lilac Domecap
+Russula acetolens,Vinegar Brittlegill
+Russula adusta,Winecork Brittlegill
+Russula aeruginea,Green Brittlegill
+Russula amoenolens,Camembert Brittlegill
+Russula aquosa,Red Swamp Brittlegill
+Russula atropurpurea,Purple Brittlegill
+Russula aurantiaca,Orange Brittlegill
+Russula aurea,Gilded Brittlegill
+Russula aurora,Dawn Brittlegill
+Russula badia,Burning Brittlegill
+Russula betularum,Birch Brittlegill
+Russula caerulea,Humpback Brittlegill
+Russula cessans,Tardy Brittlegill
+Russula chloroides,Blue Band Brittlegill
+Russula claroflava,Yellow Swamp Brittlegill
+Russula cremeoavellanea,Cream Brittlegill
+Russula cyanoxantha,Charcoal Burner
+Russula decolorans,Copper Brittlegill
+Russula delica,Milk White Brittlegill
+Russula densifolia,Crowded Brittlegill
+Russula emetica,Sickener
+Russula exalbicans,Bleached Brittlegill
+Russula fellea,Geranium Brittlegill
+Russula foetens,Stinking Brittlegill
+Russula font-queri,Beautiful Brittlegill
+Russula fragilis,Fragile Brittlegill
+Russula fusconigra,Dark Brittlegill
+Russula gracillima,Slender Brittlegill
+Russula grata,Bitter Almond Brittlegill
+Russula heterophylla,Greasy Green Brittlegill
+Russula illota,Freckled Brittlegill
+Russula integra,Nutty Brittlegill
+Russula intermedia,Intermediate Brittlegill
+Russula ionochlora,Oilslick Brittlegill
+Russula laccata,Willow Brittlegill
+Russula lilacea,Lilac Brittlegill
+Russula melzeri,Scurfy Brittlegill
+Russula minutula,Minute Brittlegill
+Russula mustelina,Russet Brittlegill
+Russula nana,Alpine Brittlegill
+Russula nigricans,Blackening Brittlegill
+Russula nitida,Purple Swamp Brittlegill
+Russula nobilis,Beechwood Sickener
+Russula ochroleuca,Ochre Brittlegill
+Russula olivacea,Olive Brittlegill
+Russula parazurea,Powdery Brittlegill
+Russula pelargonia,Pelargonium Brittlegill
+Russula pseudointegra,Scarlet Brittlegill
+Russula puellaris,Yellowing Brittlegill
+Russula queletii,Fruity Brittlegill
+Russula raoultii,Pallid Brittlegill
+Russula risigallina,Golden Brittlegill
+Russula rosea,Rosy Brittlegill
+Russula rutila,Ruddy Brittlegill
+Russula sanguinaria,Bloody Brittlegill
+Russula sardonia,Primrose Brittlegill
+Russula scotica,Scottish Brittlegill
+Russula solaris,Sunny Brittlegill
+Russula sororia,Sepia Brittlegill
+Russula velenovskyi,Coral Brittlegill
+Russula versicolor,Variable Brittlegill
+Russula vesca,The Flirt
+Russula vinosa,Darkening Brittlegill
+Russula vinosobrunnea,Naked Brittlegill
+Russula violeipes,Velvet Brittlegill
+Russula virescens,Greencracked Brittlegill
+Russula viscida,Viscid Brittlegill
+Russula xenochlora,Misfit Brittlegill
+Russula xerampelina,Crab Brittlegill
+Rutstroemia firma,Brown Cup
+Rutstroemia sydowiana,Oakleaf Cup
+Sarcodon glaucopus,Greenfoot Tooth
+Sarcodon regalis,Crowned Tooth
+Sarcodon scabrosus,Bitter Tooth
+Sarcodon squamosus,Scaly Tooth
+Sarcodontia crocea,Orchard Toothcrust
+Sarcoleotia turficola,Bog Jellydisc
+Sarcomyxa serotina,Olive Oysterling
+Sarcoscypha austriaca,Scarlet Elfcup
+Sarcoscypha coccinea,Ruby Elfcup
+Sarcosphaera coronaria,Violet Crowncup
+Schizonella cocconii,Glaucus Sedge Smut
+Schizonella melanogramma,Rare Spring Sedge Smut
+Schizophyllum amplum,Poplar Bells
+Schizophyllum commune,Splitgill
+Schizopora paradoxa,Split Porecrust
+Scleroderma areolatum,Leopard Earthball
+Scleroderma bovista,Potato Earthball
+Scleroderma citrinum,Common Earthball
+Scleroderma verrucosum,Scaly Earthball
+Scutellinia scutellata,Common Eyelash
+Scytinostroma portentosum,Mothball Crust
+Sebacina incrustans,Enveloping Crust
+Serpula lacrymans,Dry Rot
+Simocybe centunculus,Dingy Twiglet
+Sistotrema confluens,Aromatic Earthfan
+Skeletocutis nivea,Hazel Bracket
+Sparassis crispa,Wood Cauliflower
+Spathularia flavida,Yellow Fan
+Sphaerobolus stellatus,Shooting Star
+Spinellus fusiger,Bonnet Mould
+Spongipellis delectans,Spongy Mazegill
+Squamanita contortipes,Contorted Strangler
+Squamanita paradoxa,Powdercap Strangler
+Squamanita pearsonii,Strathy Strangler
+Stagnicola perplexa,Puzzling Rootshank
+Stephanospora caroticolor,Carroty False Truffle
+Stereopsis vitellina,Roothole Rosette
+Stereum gausapatum,Bleeding Oak Crust
+Stereum hirsutum,Hairy Curtain Crust
+Stereum ostrea,False Turkeytail
+Stereum rugosum,Bleeding Broadleaf Crust
+Stereum sanguinolentum,Bleeding Conifer Crust
+Stereum subtomentosum,Yellowing Curtain Crust
+Stigmatula astragali,Milk Vetch Dotty
+Strobilomyces strobilaceus,Old Man of the Woods
+Strobilurus esculentus,Sprucecone Cap
+Strobilurus tenacellus,Pinecone Cap
+Stropharia aeruginosa,Verdigris Roundhead 
+Stropharia caerulea,Blue Roundhead
+Stropharia coronilla,Garland Roundhead
+Stropharia halophila,Dune Roundhead
+Stropharia hornemannii,Conifer Roundhead
+Stropharia inuncta,Smoky Roundhead
+Stropharia pseudocyanea,Peppery Roundhead
+Stropharia rugosoannulata,Wine Roundhead
+Stropharia semiglobata,Dung Roundhead
+Suillus bovinus,Bovine Bolete
+Suillus bresadolae var. flavogriseus,Bearded Bolete
+Suillus cavipes,Hollow Bolete
+Suillus flavidus,Jellied Bolete
+Suillus granulatus,Weeping Bolete
+Suillus grevillei,Larch Bolete
+Suillus luteus,Slippery Jack
+Suillus placidus,Slippery White Bolete
+Suillus variegatus,Velvet Bolete
+Suillus viscidus,Sticky Bolete
+Syzygospora tumefaciens,Toughshank Jellygall
+Taphrina alni,Alder Tongue
+Taphrina betulina,Birch Besom
+Taphrina johansonii,Aspen Tongue
+Taphrina pruni,Pocket Plum
+Tapinella atrotomentosa,Velvet Rollrim
+Tapinella panuoides,Oyster Rollrim
+Tarzetta catinus,Greater Toothed Cup
+Tarzetta cupularis,Toothed Cup
+Tatraea dumbirensis,Beechwood Goblet
+Tephrocybe fuscipes,Darkfoot Greyling
+Tephrocybe osmophora,Sweet Greyling
+Tephrocybe palustris,Sphagnum Greyling
+Tephrocybe rancida,Rancid Greyling
+Terana caerulea ,Cobalt Crust
+Thelephora caryophyllea,Carnation Earthfan
+Thelephora palmata,Stinking Earthfan
+Thelephora terrestris,Earthfan
+Tilletia anthoxanthi,Sweet Vernal Smut
+Tilletia caries,Stinking Smut
+Tracya hydrocharidis,Frogbit Smut
+Trametes gibbosa,Lumpy Bracket
+Trametes hirsuta,Hairy Bracket
+Trametes suaveolens,Fragrant Bracket
+Trametes versicolor,Turkeytail
+Tremella encephala,Conifer Brain
+Tremella foliacea,Leafy Brain
+Tremella mesenterica,Yellow Brain
+Tremella moriformis,Mulberry Brain
+Tremella steidleri,Brown Brain
+Tremellodendropsis tuberosa,Ashen Coral
+Trichaptum abietinum,Purplepore Bracket
+Trichoglossum hirsutum,Hairy Earthtongue
+Trichoglossum rasum,Dune Earthtongue
+Trichoglossum tetrasporum,Four Spored Earthtongue
+Trichoglossum walteri,Short Spored Earthtongue
+Tricholoma acerbum,Bitter Knight
+Tricholoma aestuans,Acrid Knight
+Tricholoma album,White Knight
+Tricholoma apium,Scented Knight
+Tricholoma atrosquamosum,Dark Scaled Knight
+Tricholoma aurantium,Orange Knight
+Tricholoma bufonium,Stinky Knight
+Tricholoma cingulatum,Girdled Knight
+Tricholoma colossus,Giant Knight 
+Tricholoma columbetta,Blue Spot Knight
+Tricholoma equestre,Yellow Knight
+Tricholoma focale,Booted Knight
+Tricholoma fulvum,Birch Knight
+Tricholoma imbricatum,Matt Knight
+Tricholoma inamoenum,Gassy Knight
+Tricholoma lascivum,Aromatic Knight
+Tricholoma matsutake,Spicy Knight
+Tricholoma pessundatum,Tacked Knight
+Tricholoma populinum,Poplar Knight
+Tricholoma portentosum,Coalman
+Tricholoma psammopus,Larch Knight
+Tricholoma robustum,Robust Knight
+Tricholoma saponaceum,Soapy Knight
+Tricholoma scalpturatum,Yellowing Knight
+Tricholoma sciodes,Beech Knight
+Tricholoma sejunctum,Deceiving Knight
+Tricholoma stans,Upright Knight
+Tricholoma sulphurescens,Yellow Staining Knight
+Tricholoma sulphureum,Sulphur Knight
+Tricholoma terreum,Grey Knight
+Tricholoma ustale,Burnt Knight
+Tricholoma vaccinum,Scaly Knight
+Tricholoma virgatum,Ashen Knight
+Tricholomopsis decora,Prunes and Custard
+Tricholomopsis rutilans,Plums and Custard
+Triphragmium filipendulae,Dropwort Rust
+Trochila ilicina,Holly Speckle
+Tubaria conspersa,Felted Twiglet
+Tubaria dispersa,Hawthorn Twiglet
+Tubaria furfuracea,Scurfy Twiglet
+Tuber aestivum,Summer Truffle
+Tuber melanosporum,Black Truffle
+Tulostoma brumale,Winter Stalkball
+Tulostoma melanocyclum,Scaly Stalkball
+Tulostoma niveum,White Stalkball
+Tylopilus felleus,Bitter Bolete
+Typhula erythropus,Redleg Club
+Typhula quisquiliaris,Bracken Club
+Uredinopsis filicina,Beech Fern Rust
+Uredo oncidii,Lady's Tresses Rust
+Urocystis alopecuri,Foxtail Smut
+Urocystis avenae-elatioris,False Oat-Grass Smut
+Urocystis colchici,Colchicum Smut
+Urocystis floccosa,Green Hellebore Smut
+Urocystis poae,Meadow Grass Smut
+Urocystis primulicola,Bird's-eye Primrose Smut
+Urocystis trientalis,Chickweed Wintergreen Smut
+Uromyces colchici,Colchicum Rust
+Uromyces dactylidis,Celandine Clustercup Rust
+Uromyces ficariae,Bitter Chocolate Rust
+Uromyces gageae,Yellow Star-of-Bethlehem Rust
+Uromyces gentianae,Felwort Rust
+Uromyces scutellatus,Cypress Spurge Rust
+Uromyces tuberculatus,Dwarf Spurge Rust
+Ustanciosporium gigantosporum,White Beak-sedge Smut
+Ustanciosporium majus,Small Spored White Beak-sedge Smut
+Ustilago corcontica,Purple Small-reed Stripe Smut
+Ustilago echinata,Reed Canary-grass Smut
+Ustilago hordei,Barley Covered Smut
+Ustilago marina,Spike Rush Smut
+Vankya ornithogali,Yellow Star-of-Bethlehem Smut
+Verpa conica,Thimble Morel
+Volvariella bombycina,Silky Rosegill
+Volvariella gloiocephala,Stubble Rosegill
+Volvariella reidii,Angel Rosegill 
+Volvariella surrecta,Piggyback Rosegill
+Vuilleminia comedens,Waxy Crust
+Xenotypa aterrima,Birch Bark Stripper
+Xerocomus chrysonemus,Goldenthread Bolete
+Xerocomus silwoodensis,Poplar Bolete
+Xeromphalina campanella,PInewood Gingertail
+Xeromphalina cauticinalis,Pinelitter Gingertail
+Xerula caussei,Hoary Rooting Shank
+Xerula radicata,Rooting Shank
+Xylaria bulbosa,Bulbous Candlesnuff
+Xylaria carpophila,Beechmast Candlesnuff
+Xylaria digitata,Fingered Candlesnuff
+Xylaria guepinii,Dung Candlesnuff
+Xylaria hippotrichoides,Horsehair Candlesnuff
+Xylaria hypoxylon,Candlesnuff Fungus
+Xylaria longipes,Dead Moll's Fingers
+Xylaria oxyacanthae,Haw Candlesnuff
+Xylaria polymorpha,Dead Man's Fingers
+Agaricus crocopeplus,golden fleece mushroom
+Agaricus subrufescens,almond mushroom
+Albatrellus caeruleoporus,blue polypore
+Albatrellus ovinus,Forest Lamb
+Albatrellus peckianus,Peck's polypore
+Amanita australis,southern amanita
+Amanita caesarea,Caesar's Amanita
+Amanita calyptroderma,Pacific amanita
+Amanita daucipes,carrot amanita
+Amanita flavoconia,yellow spotted amanita
+Amanita jacksonii,American slender caesar
+Amanita onusta,gunpowder amanita
+Amauroderma rude,red staining stalked polypore
+Amparoina spinosissima,flaky bonnet
+Ampulloclitocybe avellaneoalba,smoky brown funnel
+Anthracophyllum melanophyllum,cinnabar fan bracket
+Aurantiporus pulcherrimus,strawberry bracket
+Auricularia cornea,rubber ear
+Austropaxillus macnabbii,orange rollrim
+Boletellus obscurococcineus,rhubarb bolete
+Boletellus russellii,pitted bolete
+Boletopsis grisea,grey falsebolete
+Boletus firmus,firm bolete
+Boletus flammans,flame bolete
+Boletus frostii,Frost's bolete
+Boletus hortonii,corrugated bolete
+Boletus reticuloceps,fishnet bolete
+Boletus zelleri,Zeller's bolete
+Bondarzewia montana,mountain polypore
+Calostoma cinnabarina,red aspic puffball
+Campanella aeruginea,turquoise oysterling
+Cantharellus cinnabarinus,cinnabar chanterelle
+Cantharellus ignicolor,flame chanterelle
+Caripia montagnei,pod parachute
+Catathelasma imperiale,imperial mushroom
+Ceriporia tarda,mauve waxpore
+Chlorophyllum agaricoides,puffball parasol
+Chlorovibrissea phialophora,green pinball
+Clavaria phoenicea,sunset spindles
+Clavaria purpurea,Purple Spindles
+Climacodon septentrionalis,northern tooth fungus
+Clitocybe amoenolens,Paralysis Funnel
+Conocybe deliquescens,beansprout conecap
+Cookeina tricholoma,hairy tropical goblet
+Cortinarius agathosmus,Scented Webcap
+Cortinarius austrovenetus,green skinhead
+Cortinarius iodes,viscid violet webcap
+Crinipellis zonata,zoned hairy parachute
+Cryptoporus volvatus,veiled polypore
+Cymatoderma elegans,leathery goblet
+Cyptotrama asprata,scruffy scalycap
+Cystoagaricus trisulphuratus,scaly tangerine mushroom
+Cyttaria darwinii ,Darwin's golfball 
+Cyttaria gunnii,orange golfball 
+Dacryopinax spathularia,fan shaped jelly
+Deflexula subsimplex,pendant coral
+Echinodontium tinctorium,indian paint fungus
+Entoloma glaucoroseum,jade pinkgill
+Entoloma murrayi,unicorn pinkgill
+Entoloma quadratum,salmon pinkgill
+Entoloma violaceum,violet pinkgill
+Entoloma virescens,skyblue pinkgill
+Favolaschia calocera,orange porecap
+Favolaschia pustulosa,white porecap
+Favolus tenuiculus,tropical white polypore
+Filoboletus manipularis,luminous porecap
+Floccularia luteovirens,yellow bracelet
+Galiella rufa,hairy rubber cup
+Gallacea scleroderma,velvet potato fungus
+Glaziella aurantiaca,orange bladder
+Gliophorus viridis,verdigris waxcap
+Gomphus floccosus,woolly chanterelle
+Gyromitra gigas,Giants False Morel
+Heimioporus betula,shaggy stalked bolete
+Heliocybe sulcata,sunray sawgill
+Hexagonia hydnoides,hexagon bracket
+Humidicutis lewelliniae,mauve splitting waxcap
+Humidicutis marginata,orange gilled waxcap
+Hydnellum auratile,Gold Tooth
+Hydnopolyporus fimbriatus,poretooth rosette
+Hygrocybe caespitosa,clustered waxcap
+Hygrophorus speciosus,splendid woodwax
+Hypomyces lactifluorum,lobster fungus
+Hypsizygus marmoreus,beech leech
+Inocybe caesariata,Caesar's fibrecap
+Lachnocladium denudatum,smooth leather coral
+Lactarius indigo,indigo milkcap
+Lactarius lignyotus,Velvet Milkcap
+Lactarius sanguifluus,Bloody Milkcap
+Lactocollybia aurantiaca,orange milkshank
+Leccinum eximium,lilacbrown bolete
+Lentinula edodes,shiitake
+Lentinus crinitus,fringed sawgill
+Leotia viscosa,greencap jellybaby
+Lepiota flammeatincta,flaming parasol
+Leratiomyces erythrocephalus,Redhead Roundhead
+Leucoagaricus rubrotinctus,ruby dapperling
+Leucocoprinus fragilissimus,fragile dapperling
+Lignosus rhinocerus,tiger's milk fungus
+Longula texensis,Texan desert mushroom
+Lysurus corallocephalus,coralhead stinkhorn
+Lysurus mokusin,ribbed lizard's claw
+Macowanites luteolus,yellow brittleball
+Macrocybe titans,American titan
+Marasmius crinisequi,rainforest horsehair 
+Marasmius haematocephalus,mauve parachute
+Marasmius pulcherripes,rosy parachute
+Marasmius zenkeri,striped parachute
+Microglossum rufum,orange earthtongue
+Microporus xanthopus,yellow stemmed micropore
+Montagnea arenaria,desert inkcap
+Mucronella pendula,icicle spine
+Mutinus borneensis,yellow dog stinkhorn
+Mycena aurantiidisca,tangerine bonnet
+Mycena interrupta,pixie's parasol
+Mycena leaiana,golden bonnet
+Mycena strobilinoides,flame bonnet
+Mycena viscidocruenta,ruby bonnet
+Nidula niveotomentosa,woolly bird's nest
+Omphalotus japonicus,moonlight mushroom
+Onnia tomentosa,velvet rosette
+Ophiocordyceps sinensis,Chinese caterpillar fungus
+Peziza azureoides,azure cup
+Phaeocollybia christinae,Christina's rootshank
+Phallus indusiatus,veiled lady
+Phillipsia domingensis,mauve elfcup
+Phlebia coccineofulva,scarlet waxcrust
+Phylloporus rhodoxanthus,gilled bolete
+Physalacria inflata,bladder stalks
+Pleurotus citrinopileatus,golden oyster
+Pleurotus djamor,tropical oyster
+Pleurotus eryngii,King Oyster
+Pluteus aurantiorugosus,flame shield
+Podaxis pistillaris,desert shaggy mane
+Podoscypha petalodes,wine glass rosette
+Podoserpula pusio,pagoda fungus
+Podostroma cornu-damae,poison fire coral
+Pseudocolus fusiformis,stinky squid
+Psilocybe cubensis,golden brownie
+Pterula subulata,angel hair coral
+Pulveroboletus ravenelii,sulphur bolete
+Ramaria araiospora,red coral
+Ramaria longispora,longspored orange coral
+Ramaria sanguinea,Bloody Coral
+Rigidoporus sanguinolentus,bleeding porecrust
+Sarcosoma globosum,witches cauldron
+Sebacina sparassoidea,white coral jelly
+Squamanita odorata,fragrant strangler
+Staheliomyces cinctus,cummerbund stinkhorn
+Suillus ochraceoroseus,rosy larch bolete
+Syzygospora mycetophila,toughshank brain
+Terfezia arenaria,Moroccan desert truffle
+Termitomyces robustus,robust termite fungus
+Tetrapyrgos nigripes,blackfoot parachute
+Tremella fuciformis,silver ear
+Tremellodendron schweinitzii,jellied false coral
+Tricholoma caligatum,true booted knight
+Tricholoma magnivelare,American matsutake
+Tricholoma pardinum,Leopard Knight
+Tuber magnatum,white truffle
+Tylopilus alboater,black velvet bolete
+Tylopilus chromapes,yellowfoot bolete
+Urnula craterium,devil's urn
+Weraroa virescens,blue pouch fungus
+Xylaria tentaculata,fairy sparkler
