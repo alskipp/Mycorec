@@ -2,7 +2,7 @@ module Main where
 
 import Mycorec
 
-
 main :: IO ()
-main = parseArgs
-
+main = do
+  runExceptT parseArgs
+  return ()

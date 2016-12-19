@@ -1,5 +1,8 @@
+{-# LANGUAGE OverloadedStrings #-}
+
 module Mycorec
     ( parseArgs
+    , runExceptT
     ) where
 
 import SourceRecord
@@ -9,29 +12,30 @@ import qualified Data.Text.IO as T
 import qualified Data.Text as T
 import System.IO
 import System.Environment
-import System.Exit
+import Control.Monad.Trans.Except
+import Control.Monad.Trans.Class
 
 
-parseArgs :: IO ()
+parseArgs :: ExceptT String IO ()
 parseArgs = do
-  args <- getArgs
-  case args of 
+  args <- lift getArgs
+  case args of
     [recordsFile] -> do
-      recs <- formatSourceRecords recordsFile
-      T.putStr recs
-      
+      recs <- formatSourceRecords recordsFile `catchE` printErr recordsFile
+      lift $ T.putStrLn recs
+
     _ -> do
-      name <- getProgName
-      hPutStrLn stderr $ "usage: " ++ name ++ 
+      name <- lift getProgName
+      lift $ hPutStrLn stderr $ "usage: " ++ name ++
         " requires a file path to a Source Record file"
-      exitFailure
-      
-formatSourceRecords :: FilePath -> IO Text
-formatSourceRecords file = fmap T.unlines $ fmap (fmap sourceRecordToCSV) (sourceRecordsFromFile file)
-    
-sourceRecordsFromFile :: FilePath -> IO [SourceRecord Text]
+  where printErr file err = do
+          lift $ T.putStrLn $ T.intercalate " " ["Could not parse file:", (T.pack file), "|", (T.pack err)]
+          throwE err
+
+formatSourceRecords :: FilePath -> ExceptT String IO Text
+formatSourceRecords file = fmap (T.unlines . fmap sourceRecordToCSV) (sourceRecordsFromFile file)
+
+sourceRecordsFromFile :: FilePath -> ExceptT String IO [SourceRecord Text]
 sourceRecordsFromFile file = do
-  recordStr <- T.readFile file
-  case sourceRecordsFromText recordStr of
-    (Left _)  -> return []
-    (Right r) -> return r
+  t <- lift $ T.readFile file
+  ExceptT $ return (sourceRecordsFromText t)
